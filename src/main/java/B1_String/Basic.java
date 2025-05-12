@@ -1,4 +1,4 @@
-package d1_string;
+package B1_String;
 
 public class Basic {
 	
@@ -95,6 +95,8 @@ public class Basic {
 			System.out.println(l);
 			*/		
 			//----------------------------------------------------------------------------------
+		
+		
 		
 		
 	}
