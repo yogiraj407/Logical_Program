@@ -351,7 +351,10 @@ public class AllProgram {
 					/*
 					 * String a="ABCD"; String x=""; int l=a.length();
 					 * 
-					 * for (int i=l-1;i>=0;i--) { x=x+a.charAt(i); }
+					 * for (int i=l-1;i>=0;i--) 
+					 * { 
+					 * 		x=x+a.charAt(i); 
+					 * }
 					 * 
 					 * System.out.println(x);
 					 */
@@ -383,7 +386,13 @@ public class AllProgram {
 				// count no.of digit in a number
 				
 				/*
-				 * long num= 1234565435; long count=0; while(num>0) { num=num/10; count++; }
+				 * long num= 1234565435; 
+				 * long count=0; 
+				 * while(num>0) 
+				 * { 
+				 * num=num/10; 
+				 * 	count++; 
+				 * }
 				 * 
 				 * System.out.println("Total number of digit in a number is:"+count);
 				 */
@@ -395,9 +404,19 @@ public class AllProgram {
 				/*
 				 * int num=123456,even=0,odd=0;
 				 * 
-				 * while (num>0) { int rem=num%10; if (rem%2==0) { even++; } else { odd++; }
+				 * while (num>0) 
+				 * { int rem=num%10; 
+				 * 	if (rem%2==0) 
+				 *	 { 
+				 *		even++; 
+				 *		} 
+				 *	else 
+				 *	{ 
+				 *		odd++;
+				 *	 }
 				 * 
-				 * num=num/10; }
+				 * 	num=num/10; 
+				 * 		}
 				 * 
 				 * System.out.println("number of even digit in a number:"+even);
 				 * 

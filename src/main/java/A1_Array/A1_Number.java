@@ -90,6 +90,7 @@ public class A1_Number {
 					{
 						if(a[i] == a[j])
 						{
+						
 							System.out.print(a[i] + ","+a[j]+",");
 						}
 					}
@@ -115,7 +116,7 @@ public class A1_Number {
 							System.out.println(a[i] + " is duplicate string");
 						}
 					}
-				}        //Is this a right logic???
+				}        
 	//********************************************************************	
 	*/     
 			// find prime no. from array
